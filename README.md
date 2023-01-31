@@ -6,7 +6,7 @@ colors = ['red', 'blue', 'red', 'green', 'blue', 'blue']
 cnt = Counter(colors)
 cnt
 ```
-> *output*: Counter({'red': 2, 'blue': 3, 'green': 1})
+> **output**: Counter({'red': 2, 'blue': 3, 'green': 1})
 ***
 ## Tip2: Enumerate
 
