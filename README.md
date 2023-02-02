@@ -14,3 +14,4 @@ cnt
 for i, flavor in enumerate(flavor_list):
     print(f'{i + 1}: {flavor}')
 ```
+dodati primer za map filter reduce
